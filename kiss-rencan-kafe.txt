@@ -1,4 +1,6 @@
 RENCANA KAFE
 
 -Buat menu baru
+  *coffee
+  *non coffee
 -Iklan promosi
