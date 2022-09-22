@@ -1,0 +1,7 @@
+RENCANA KAFE
+
+-Buat menu baru
+  *coffee
+  *non coffee
+  *mix
+-Iklan promosi
