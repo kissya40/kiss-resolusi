@@ -4,5 +4,7 @@ RENCANA KAFE
   *coffee
   *non coffee
   *mix
+   ^ belajar mix
 -Naik gaji
 -Iklan promosi
+ 	^menaikan follower
