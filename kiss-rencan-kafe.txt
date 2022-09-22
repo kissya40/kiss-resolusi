@@ -3,8 +3,8 @@ RENCANA KAFE
 -Buat menu baru
   *coffee
   *non coffee
+   ^menu teh
+   ^bland
   *mix
-   ^ belajar mix
--Naik gaji
 -Iklan promosi
- 	^menaikan follower
+  ^naikin follower ig
